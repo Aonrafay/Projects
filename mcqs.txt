@@ -1,0 +1,749 @@
+What is the capital of France?
+A) Berlin
+B) Madrid
+C) Paris
+D) Rome
+
+Which of the following is a primary color?
+A) Green
+B) Blue
+C) Orange
+D) Purple
+
+What is the square root of 64?
+A) 6
+B) 7
+C) 8
+D) 9
+
+Which programming language is known as the "mother of all languages"?
+A) C
+B) Fortran
+C) Assembly
+D) Lisp
+
+In which year did World War II end?
+A) 1942
+B) 1945
+C) 1950
+D) 1960
+
+What is the chemical symbol for water?
+A) O2
+B) H2O
+C) CO2
+D) H2
+
+Who wrote "Romeo and Juliet"?
+A) Charles Dickens
+B) William Shakespeare
+C) Jane Austen
+D) Mark Twain
+
+Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Earth
+D) Jupiter
+
+Which gas do plants absorb from the air during photosynthesis?
+A) Oxygen
+B) Nitrogen
+C) Carbon dioxide
+D) Hydrogen
+
+Which element has the chemical symbol 'O'?
+A) Oxygen
+B) Osmium
+C) Ozone
+D) Omnium
+
+What is the longest river in the world?
+A) Nile
+B) Amazon
+C) Yangtze
+D) Mississippi
+
+Which is the largest continent?
+A) Africa
+B) Asia
+C) Europe
+D) Australia
+
+What is the freezing point of water in Celsius?
+A) 32°C
+B) 0°C
+C) 100°C
+D) -10°C
+
+Which is the largest planet in our solar system?
+A) Earth
+B) Mars
+C) Jupiter
+D) Saturn
+
+Which element has the atomic number 1?
+A) Hydrogen
+B) Helium
+C) Oxygen
+D) Nitrogen
+
+Who invented the telephone?
+A) Thomas Edison
+B) Nikola Tesla
+C) Alexander Graham Bell
+D) Michael Faraday
+
+In which year did the Titanic sink?
+A) 1910
+B) 1912
+C) 1920
+D) 1925
+
+Which of the following is a programming language?
+A) HTML
+B) Java
+C) CSS
+D) XML
+
+Who painted the Mona Lisa?
+A) Pablo Picasso
+B) Vincent van Gogh
+C) Leonardo da Vinci
+D) Claude Monet
+
+What is the powerhouse of the cell?
+A) Nucleus
+B) Ribosome
+C) Mitochondria
+D) Chloroplast
+
+Which planet is closest to the sun?
+A) Venus
+B) Earth
+C) Mercury
+D) Mars
+
+What is the speed of light?
+A) 300,000 km/s
+B) 300 km/s
+C) 30,000 km/s
+D) 30 km/s
+
+Who discovered penicillin?
+A) Marie Curie
+B) Alexander Fleming
+C) Louis Pasteur
+D) Isaac Newton
+
+Which of the following is not a primary color?
+A) Red
+B) Blue
+C) Green
+D) Yellow
+
+Which element is represented by the symbol 'Na'?
+A) Neon
+B) Nitrogen
+C) Sodium
+D) Nickel
+
+What is the square root of 49?
+A) 5
+B) 6
+C) 7
+D) 8
+
+Which country is known as the Land of the Rising Sun?
+A) China
+B) Japan
+C) South Korea
+D) Thailand
+
+Who is the author of "The Hobbit"?
+A) J.K. Rowling
+B) J.R.R. Tolkien
+C) C.S. Lewis
+D) George R.R. Martin
+
+What is the main ingredient in guacamole?
+A) Tomato
+B) Avocado
+C) Onion
+D) Lemon
+
+Which organ is responsible for pumping blood throughout the body?
+A) Brain
+B) Lungs
+C) Stomach
+D) Heart
+
+Which of the following is an example of an integer?
+A) 3.14
+B) 2
+C) -5.5
+D) 0.5
+
+Which of the following animals is a mammal?
+A) Shark
+B) Crocodile
+C) Dolphin
+D) Eagle
+
+Which planet is known for its rings?
+A) Mars
+B) Saturn
+C) Uranus
+D) Neptune
+
+What is the boiling point of water in Fahrenheit?
+A) 100°F
+B) 180°F
+C) 212°F
+D) 0°F
+
+Who is the first president of the United States?
+A) Thomas Jefferson
+B) George Washington
+C) Abraham Lincoln
+D) John Adams
+
+Which of these is a renewable resource?
+A) Coal
+B) Oil
+C) Wind
+D) Natural gas
+
+What is the atomic number of Carbon?
+A) 6
+B) 12
+C) 14
+D) 8
+
+Which element is needed for the process of respiration in humans?
+A) Nitrogen
+B) Oxygen
+C) Hydrogen
+D) Carbon
+
+Who wrote the novel "1984"?
+A) Aldous Huxley
+B) George Orwell
+C) F. Scott Fitzgerald
+D) Mark Twain
+
+Which of the following is a type of cloud?
+A) Canyon
+B) Forest
+C) Cumulus
+D) Desert
+
+Which continent is known as the "Frozen Continent"?
+A) Asia
+B) Antarctica
+C) Europe
+D) Africa
+
+What does CPU stand for in computer science?
+A) Central Process Unit
+B) Central Processing Unit
+C) Central Program Unit
+D) Central Processing Unit
+
+Which vitamin is known as the "sunshine vitamin"?
+A) Vitamin A
+B) Vitamin B
+C) Vitamin C
+D) Vitamin D
+
+Who discovered gravity?
+A) Galileo Galilei
+B) Isaac Newton
+C) Albert Einstein
+D) Nikola Tesla
+
+Which of the following is a programming language?
+A) JavaScript
+B) HTML
+C) CSS
+D) XML
+
+What is the capital of Japan?
+A) Beijing
+B) Seoul
+C) Tokyo
+D) Kyoto
+
+Which number is the smallest prime number?
+A) 1
+B) 2
+C) 3
+D) 4
+
+Which of these is a type of rock?
+A) Limestone
+B) Iron
+C) Mercury
+D) Hydrogen
+
+What is the currency of the United Kingdom?
+A) Euro
+B) Dollar
+C) Pound
+D) Yen
+
+Which animal is known for its ability to change color?
+A) Chameleon
+B) Elephant
+C) Tiger
+D) Giraffe
+
+What is the capital of Canada?
+A) Vancouver
+B) Toronto
+C) Ottawa
+D) Montreal
+
+Who was the first man to step on the Moon?
+A) Yuri Gagarin
+B) Neil Armstrong
+C) Buzz Aldrin
+D) John Glenn
+
+Which gas makes up most of the Earth's atmosphere?
+A) Oxygen
+B) Nitrogen
+C) Carbon dioxide
+D) Argon
+
+Which of these is a non-renewable resource?
+A) Wind
+B) Sunlight
+C) Coal
+D) Water
+
+What is the main function of white blood cells?
+A) Transport oxygen
+B) Fight infection
+C) Help in digestion
+D) Control muscle movement
+
+What is the longest bone in the human body?
+A) Femur
+B) Humerus
+C) Tibia
+D) Radius
+
+Which country is famous for inventing the pizza?
+A) Greece
+B) Spain
+C) Italy
+D) France
+
+Which language is primarily spoken in Brazil?
+A) Spanish
+B) French
+C) Italian
+D) Portuguese
+
+Which metal is liquid at room temperature?
+A) Mercury
+B) Gold
+C) Silver
+D) Copper
+
+Who painted "The Starry Night"?
+A) Pablo Picasso
+B) Vincent van Gogh
+C) Claude Monet
+D) Leonardo da Vinci
+
+Which of the following is a type of triangle?
+A) Square
+B) Pentagon
+C) Circle
+D) Equilateral
+
+Which of these countries is in Africa?
+A) India
+B) Egypt
+C) Australia
+D) Japan
+
+Who is known as the father of modern physics?
+A) Albert Einstein
+B) Isaac Newton
+C) Nikola Tesla
+D) Stephen Hawking
+
+What is the main ingredient in a traditional Japanese sushi roll?
+A) Rice
+B) Noodles
+C) Fish
+D) Vegetables
+
+Which element is commonly used in the production of steel?
+A) Iron
+B) Copper
+C) Gold
+D) Zinc
+
+What is the tallest mountain in the world?
+A) K2
+B) Mount Everest
+C) Kilimanjaro
+D) Mont Blanc
+
+Which of these is an ocean?
+A) Sahara
+B) Atlantic
+C) Gobi
+D) Amazon
+
+Which type of energy is harnessed by wind turbines?
+A) Thermal
+B) Electrical
+C) Kinetic
+D) Solar
+
+Which of these is a famous landmark in Egypt?
+A) Great Wall of China
+B) Eiffel Tower
+C) Pyramids of Giza
+D) Statue of Liberty
+
+Which chemical element is commonly used in batteries?
+A) Lead
+B) Lithium
+C) Zinc
+D) Mercury
+
+What is the main purpose of the human digestive system?
+A) Circulation
+B) Oxygen absorption
+C) Nutrient absorption
+D) Waste disposal
+
+Which country is the largest by land area?
+A) United States
+B) Canada
+C) Russia
+D) China
+
+What is the longest running TV show in the world?
+A) The Simpsons
+B) Friends
+C) The Tonight Show
+D) The News Hour
+
+What is the process by which plants make their own food?
+A) Respiration
+B) Photosynthesis
+C) Fermentation
+D) Digestion
+
+Which gas is known as the "laughing gas"?
+A) Oxygen
+B) Nitrous oxide
+C) Carbon monoxide
+D) Hydrogen
+
+What is the capital city of Australia?
+A) Sydney
+B) Melbourne
+C) Canberra
+D) Perth
+
+Which programming language is primarily used for Android app development?
+A) Python
+B) Java
+C) C++
+D) Ruby
+
+Who is known as the "Father of Geometry"?
+A) Pythagoras
+B) Euclid
+C) Archimedes
+D) Aristotle
+
+Which of the following is not a greenhouse gas?
+A) Methane
+B) Carbon dioxide
+C) Oxygen
+D) Water vapor
+
+What is the unit of electric current?
+A) Volt
+B) Ampere
+C) Ohm
+D) Watt
+
+Which element is used to make the filament in light bulbs?
+A) Copper
+B) Aluminum
+C) Tungsten
+D) Silver
+
+What is the largest ocean on Earth?
+A) Indian Ocean
+B) Atlantic Ocean
+C) Pacific Ocean
+D) Arctic Ocean
+
+Who was the first woman to win a Nobel Prize?
+A) Marie Curie
+B) Rosalind Franklin
+C) Jane Goodall
+D) Ada Lovelace
+
+Which planet has the most moons?
+A) Earth
+B) Jupiter
+C) Mars
+D) Venus
+
+Which language is primarily spoken in Argentina?
+A) French
+B) Spanish
+C) Italian
+D) German
+
+Which of these is not a type of database?
+A) SQL
+B) Oracle
+C) HTML
+D) MongoDB
+
+Who developed the theory of relativity?
+A) Isaac Newton
+B) Albert Einstein
+C) Nikola Tesla
+D) Galileo Galilei
+
+What is the most abundant element in the Earth's crust?
+A) Oxygen
+B) Silicon
+C) Aluminum
+D) Iron
+
+Which bird is known for its ability to mimic sounds?
+A) Parrot
+B) Crow
+C) Nightingale
+D) Eagle
+
+Which sport uses the term "love" for a score of zero?
+A) Cricket
+B) Tennis
+C) Basketball
+D) Football
+
+What does HTTP stand for?
+A) HyperText Transfer Protocol
+B) HighText Transfer Program
+C) HyperText Transfer Program
+D) HighText Transfer Protocol
+
+What is the capital city of Egypt?
+A) Cairo
+B) Alexandria
+C) Luxor
+D) Giza
+
+What is the smallest unit of life?
+A) Atom
+B) Cell
+C) Molecule
+D) Organ
+
+Which organ in the human body filters blood?
+A) Heart
+B) Kidney
+C) Liver
+D) Lungs
+
+What is the main ingredient in chocolate?
+A) Milk
+B) Cocoa
+C) Sugar
+D) Honey
+
+Who is the Greek god of the sea?
+A) Zeus
+B) Poseidon
+C) Hades
+D) Apollo
+
+Which is the smallest planet in our solar system?
+A) Venus
+B) Mars
+C) Mercury
+D) Pluto
+
+Which musical instrument has 88 keys?
+A) Guitar
+B) Violin
+C) Piano
+D) Flute
+
+What is the currency of Japan?
+A) Won
+B) Yen
+C) Yuan
+D) Peso
+
+Which blood type is known as the universal donor?
+A) A
+B) B
+C) AB
+D) O
+
+Who painted "The Last Supper"?
+A) Michelangelo
+B) Leonardo da Vinci
+C) Raphael
+D) Caravaggio
+
+Which animal is the largest mammal?
+A) Elephant
+B) Blue Whale
+C) Giraffe
+D) Hippopotamus
+
+What is the freezing point of water in Fahrenheit?
+A) 0°F
+B) 32°F
+C) 100°F
+D) 212°F
+
+Which is the only metal that is liquid at room temperature?
+A) Mercury
+B) Gallium
+C) Lead
+D) Iron
+
+Which continent is known as the "Dark Continent"?
+A) South America
+B) Africa
+C) Antarctica
+D) Australia
+
+Who discovered the electron?
+A) J.J. Thomson
+B) Niels Bohr
+C) Ernest Rutherford
+D) James Clerk Maxwell
+
+What does RAM stand for in computers?
+A) Random Access Memory
+B) Read Access Memory
+C) Read Available Memory
+D) Random Available Memory
+
+Which branch of science studies the behavior of matter and energy?
+A) Biology
+B) Physics
+C) Chemistry
+D) Geology
+
+Which is the hardest natural substance on Earth?
+A) Steel
+B) Diamond
+C) Quartz
+D) Graphite
+
+Which mountain range separates Europe and Asia?
+A) Himalayas
+B) Andes
+C) Ural Mountains
+D) Alps
+
+Which chemical element has the symbol 'K'?
+A) Krypton
+B) Potassium
+C) Calcium
+D) Sodium
+
+Which country is famous for the Taj Mahal?
+A) Pakistan
+B) India
+C) Bangladesh
+D) Nepal
+
+Which process converts sugar into alcohol?
+A) Filtration
+B) Fermentation
+C) Distillation
+D) Evaporation
+
+What is the SI unit of temperature?
+A) Celsius
+B) Kelvin
+C) Fahrenheit
+D) Joule
+
+Which animal is known as the "King of the Jungle"?
+A) Tiger
+B) Lion
+C) Leopard
+D) Elephant
+
+What is the chemical formula for table salt?
+A) NaCl
+B) KCl
+C) H2O
+D) CaCO3
+
+Which country hosted the 2016 Summer Olympics?
+A) China
+B) Brazil
+C) Japan
+D) Russia
+
+Who is credited with inventing the light bulb?
+A) Thomas Edison
+B) Nikola Tesla
+C) Benjamin Franklin
+D) Alexander Graham Bell
+
+Which gas is used in balloons to make them float?
+A) Oxygen
+B) Helium
+C) Nitrogen
+D) Argon
+
+Which vitamin helps in blood clotting?
+A) Vitamin A
+B) Vitamin C
+C) Vitamin K
+D) Vitamin D
+
+Which continent has the most countries?
+A) Asia
+B) Africa
+C) Europe
+D) South America
+
+What is the first book of the Bible?
+A) Psalms
+B) Genesis
+C) Exodus
+D) Proverbs
+
+Who is the CEO of Tesla as of 2024?
+A) Jeff Bezos
+B) Elon Musk
+C) Tim Cook
+D) Bill Gates
+
+Which programming language is most commonly used for web development?
+A) Python
+B) JavaScript
+C) Java
+D) Ruby
+
+What is the SI unit of force?
+A) Joule
+B) Newton
+C) Watt
+D) Pascal
